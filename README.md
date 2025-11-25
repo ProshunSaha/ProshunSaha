@@ -75,14 +75,6 @@ Documentation + backend contributions to a Django-based open-source network tool
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProshunSaha&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProshunSaha&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 🌐 Connect
 📧 pxs210111@utdallas.edu  
